@@ -1,3 +1,3 @@
 gcc Salespoint.c
-./a.out
+sudo ./a.out
 echo Program is Started now !
