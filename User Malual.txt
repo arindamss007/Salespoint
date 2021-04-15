@@ -25,7 +25,8 @@
 		
 		(i) We have just one issue in our project that is string
 		    operation. Because of that the project is in C programming
-		    Which is not contains high-level string operations, so thats 		    why we face some issues about that.
+		    Which is not contains high-level string operations, so thats
+		    why we face some issues about that.
 		
 			*User Recommended String Operation be like :-
 			
@@ -43,7 +44,8 @@
 
 		      Besically this project can supports on every OS platform
 		      But most of the peoples are use Windows and linux, So i
-		      made a script for both(windows & Linux) platform for auto-		      matically run the project or Software.
+		      made a script for both(windows & Linux) platform for auto-matically 
+		      run the project or Software.
 
 		      *Windows :
 			       In Windows folder a script you find which is 
@@ -51,11 +53,13 @@
 			       Software .
 
 			       *NOTE : But The script needs to install GCC
-				      Compiler on your pc either its not work.					      But if you have a different Compiler then
+				      Compiler on your pc either its not work.
+				      But if you have a different Compiler then
 				      You can use that Compiler Separately.
 
 		     *Linux :
-			   In Linux Folder you can find a script which is called			   Salespoint.sh, this script run in terminal then you
+			   In Linux Folder you can find a script which is called
+			   Salespoint.sh, this script run in terminal then you
 			   can easily use the software .
 
 			Guide : 1. Open Terminal
@@ -73,11 +77,11 @@
 
 	4. Administrator Authentication :
 
-					While you want to access to intract with 					admin mode the system needs to a
+					While you want to access to intract with
+					admin mode the system needs to a
 					Authentication key which is protected by
-					a default security key !
+					a user defined security key !
 
-					(password or key) : 87654321
 	
 
 	Author of The Project :
