@@ -90,6 +90,8 @@ int main()
     int option, i;
     printf("\n\nHi Sir, Please Set Your Password [Numbers Only] :\t");
     scanf("%d", &pass);
+    printf("\nPassword Successfully Saved !\n\n");
+    printf("\nWe prefer to you read user manual Carefully then use the software !\n");
 
     while(option != 5)
     {
