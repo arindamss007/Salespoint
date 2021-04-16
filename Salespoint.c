@@ -1,3 +1,7 @@
+
+//Author of the code is : Arindam Saha
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -1000,3 +1004,6 @@ struct catagory *salepoint(struct catagory *start)
     }
     return start;
 }
+
+
+//Author of the code : Arindam Saha
