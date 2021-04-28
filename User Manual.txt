@@ -73,11 +73,10 @@
 
 	4. Administrator Authentication :
 
-					While you want to access to intract with 					admin mode the system needs to a
-					Authentication key which is protected by
-					a default security key !
+					While you want to access to intract with the data-base
+					you can protect your data-base with a security key which
+					is provide you more security for save Data or Informations.
 
-					(password or key) : 87654321
 	
 
 	Author of The Project :
