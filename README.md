@@ -26,10 +26,11 @@ operation. Because of that the project is in C programming
 Which is not contains high-level string operations, so thats 
 why we face some issues about that.
 		
-*User Recommended String Operation be like :-
+✅ User Recommended String Operation be like :-
 	
 HI_This_is_a_string! (Right Method)
-*Invalid Operation :-
+
+❎ Invalid Operation :-
 
 HI this is a string ! (wrong Method)
 
@@ -44,12 +45,12 @@ But most of the peoples are use Windows and linux, So i
 made a script for both(windows & Linux) platform for auto-matically 
 run the project or Software.
 
-*Windows :
+🟤 Windows :
 In Windows folder a script you find which is 
 Salespoint.bat which is auto-matically run the
 Software .
 
-*NOTE : But The script needs to install GCC
+🔸NOTE : But The script needs to install GCC
 Compiler on your pc either its not work. But if you have a different Compiler then
 You can use that Compiler Separately.
               
@@ -59,7 +60,7 @@ You can use that Compiler Separately.
 		// Go to Salespoint directory in your terminal.
 		2. Run >>Salespoint.bat
 
-*Linux :
+🟤 Linux :
 In Linux Folder you can find a script which is called Salespoint.sh, this script run in terminal then you
 can easily use the software .
 
@@ -70,7 +71,7 @@ can easily use the software .
 		2. Run >>bash Salespoint.sh
 
  
-*NOTE : But The script needs to install GCC
+🔸NOTE : But The script needs to install GCC
 Compiler on your linux-system either
 this script will not work properly.
 If you have any different Compiler then
